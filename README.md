@@ -16,7 +16,7 @@ A weather prediction system using Raspberry Pi with Sense HAT, optimized for Swe
 - 📏 **Raw sensor data tracking** for calibration purposes
 - 🪟 **Window placement optimization** for best indoor→outdoor predictions
 
-> ⚠️ **Note**: This system is currently designed for **indoor use near a window**. For direct outdoor deployment, see [Outdoor Enhancement](#outdoor-use---future-enhancement-needed) section below.
+> ⚠️ **Note**: The current project is designed for indoor use.
 
 ### 🇸🇪 **Swedish Climate Intelligence** 
 - 📊 **25 years of SMHI climate data** integration (2000-2024)
