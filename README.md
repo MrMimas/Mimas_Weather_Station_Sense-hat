@@ -1,4 +1,4 @@
-# Not worked on Currently Feel free to try toi fix it some.
+# Not worked on Currently Feel free to try to fix it some.
 
 # 🌤️ Mimas Weather Station
 
