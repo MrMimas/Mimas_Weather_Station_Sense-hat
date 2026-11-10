@@ -1,3 +1,5 @@
+# Not worked on Currently Feel free to try toi fix it some.
+
 # 🌤️ Mimas Weather Station
 
 A weather prediction system using Raspberry Pi with Sense HAT, optimized for Swedish climate patterns and indoor placement.
